@@ -56,10 +56,10 @@ st.markdown(
 
 # owner name and filed of study amd linkdin profile link and github link
 
-st.title("Abhishek Nangare")
+st.title("Satyam Kumar Singh")
 
 st.markdown(
-  "I am a *Data scientist* You can connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-nangare-3b6ab1241/) and [Github](https://github.com/Abhi96k)",
+  " You can connect with me on [LinkedIn](www.linkedin.com/in/satyam-singh-95441b228) and [Github](https://github.com/SatyamSingh343)",
 )
 
 
